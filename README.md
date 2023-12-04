@@ -30,4 +30,3 @@
 
 
 
-[![readme](https://github-readme-stats.vercel.app/api/?username=victordjesus&theme=react)](https://github.com/victordjesus)
