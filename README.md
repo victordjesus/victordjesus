@@ -1,7 +1,7 @@
   ### Opaa, Eu sou o Victor!!!
 
 - 🔭 Estudo no SENAI Dendezeiros
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
